@@ -70,3 +70,7 @@ C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\obj\Debug\EvanasGar
 C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\obj\Debug\EvanasGarden.csproj.CopyComplete
 C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\obj\Debug\EvanasGarden.dll
 C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\obj\Debug\EvanasGarden.pdb
+C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\bin\EntityFramework.dll
+C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\bin\EntityFramework.SqlServer.dll
+C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\bin\EntityFramework.xml
+C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\bin\EntityFramework.SqlServer.xml

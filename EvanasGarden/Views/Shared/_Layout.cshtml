@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <title>Evana's Garden</title>
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <script src="~/Scripts/modernizr-2.8.3.js"></script>
@@ -12,10 +12,16 @@
     @Html.Partial("_NavBar")
 
     <div class="container body-content">
+        <form class="form-inline my-2 my-lg-0 float-lg-right">
+            <input class="form-control mr-sm-2" type="search" placeholder="search" aria-label="search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">search</button>
+        </form>
+
         @RenderBody()
+
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <p>&copy; @DateTime.Now.Year - Evana's Garden</p>
         </footer>
     </div>
 
