@@ -74,3 +74,5 @@ C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\bin\EntityFramework
 C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\bin\EntityFramework.SqlServer.dll
 C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\bin\EntityFramework.xml
 C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\bin\EntityFramework.SqlServer.xml
+C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\obj\Debug\EvanasGarden.Migrations.AddPlantModel.resources
+C:\Users\smsha\Desktop\EvnasGarden\EvanasGarden\EvanasGarden\obj\Debug\EvanasGarden.csproj.GenerateResource.cache
